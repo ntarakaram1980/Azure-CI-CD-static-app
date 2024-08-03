@@ -10,7 +10,7 @@
     />
     <br />
     <br />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <HelloWorld msg="Welcome to Your TestApp" />
   </div>
 </template>
 
