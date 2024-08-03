@@ -2,7 +2,7 @@
   <div class="hello">
     <div>
       <form>
-        <label for="name">Name:</label>
+        <label for="name">Name test:</label>
         <input type="text" v-model="name" id="name" name="name" required />
         <br />
         <br />
