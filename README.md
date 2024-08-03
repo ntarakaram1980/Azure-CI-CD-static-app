@@ -1,4 +1,4 @@
-# cicdapp for MLOps Project V14
+# cicdapp for MLOps Project V14.1
 
 ## Project setup
 ```
